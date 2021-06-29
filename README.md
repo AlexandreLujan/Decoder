@@ -1,5 +1,6 @@
 # Decoder
-Simple decoder circuit build with just logic ports. Written in VHDL.
+Simple decoder circuit build with just logic ports. Written in VHDL.<br />
+![alt text](https://github.com/AlexandreLujan/Decoder/blob/main/Decoder1.png?raw=true)
 
 ## Built With
 -Quartus Prime Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition<br />
